@@ -1,0 +1,34 @@
+train: C:\Users\Usuario\PycharmProjects\TRAIN_YOLO26\ds\train\images
+val: C:\Users\Usuario\PycharmProjects\TRAIN_YOLO26\ds\valid\images
+test: C:\Users\Usuario\PycharmProjects\TRAIN_YOLO26\ds\test\images
+nc: 22
+names:
+- Car
+- Person
+- Vandalism
+- breaking_the_door
+- broken_glass
+- c0 - Safe Driving
+- c1 - Texting
+- c2 - Talking on the phone
+- c3 - Operating the Radio
+- c4 - Drinking
+- c5 - Reaching Behind
+- c6 - Hair and Makeup
+- c7 - Talking to Passenger
+- car
+- car broken
+- destroying
+- glass shatter
+- person
+- suspicious
+- theft
+- theft-detection
+- vehicle theft
+roboflow:
+  workspace: darwin-turpo-s-workspace
+  project: sv_ucsm
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/darwin-turpo-s-workspace/sv_ucsm/dataset/1
+path: C:\Users\Usuario\PycharmProjects\TRAIN_YOLO26\ds

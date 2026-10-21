@@ -1,0 +1,43 @@
+# ==========================================================
+#  .gitignore - TRAIN_YOLO26
+#  Estrategia: ignorar TODO y permitir solo lo necesario
+# ==========================================================
+
+# 1) Ignorar todo por defecto
+*
+
+# 2) Permitir que Git recorra las carpetas (sin esto no encuentra los notebooks)
+!*/
+
+# 3) Lo que SÍ se sube
+!.gitignore
+!*.ipynb
+!README.md
+!requirements.txt
+!*.py
+!ds/data.yaml
+
+# 4) Carpetas que NUNCA se suben (aunque tengan .ipynb o .py dentro)
+.venv/
+venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+data/
+ds/test/
+ds/train/
+ds/valid/
+runs/
+weights/
+models/
+pruebas/
+dataset/
+modelo_final/
+resultados_tesis/
+**/runs/
+**/weights/
+**/data/
+**/models/
+**/dataset/
+**/modelo_final/
+**/resultados_tesis/
