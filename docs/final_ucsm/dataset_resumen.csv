@@ -1,0 +1,4 @@
+split,imagenes,instancias,imagenes_sin_objetos,imagenes_sin_label
+train,2057,2532,214,0
+val,571,858,48,0
+test,197,262,0,0

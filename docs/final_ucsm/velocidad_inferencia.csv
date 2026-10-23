@@ -1,0 +1,2 @@
+dispositivo,pre_ms,inferencia_ms,post_ms,total_ms,p95_ms,fps,n_imagenes
+"CPU (i7-14650HX, FP32)",2.03,37.29,0.51,39.82,44.32,25.11,60

@@ -1,0 +1,22 @@
+﻿Clase,P,R,mAP@0.5,mAP@0.5:0.95
+Car,1.0,0.269,0.572,0.448
+Person,0.746,0.345,0.652,0.322
+Vandalism,0.852,0.269,0.495,0.16
+breaking_the_door,0.387,0.5,0.62,0.193
+c0 - Safe Driving,0.872,0.955,0.984,0.903
+c1 - Texting,0.957,1.0,0.995,0.922
+c2 - Talking on the phone,0.958,1.0,0.995,0.919
+c3 - Operating the Radio,1.0,0.988,0.995,0.919
+c4 - Drinking,0.943,1.0,0.954,0.872
+c5 - Reaching Behind,0.94,1.0,0.993,0.825
+c6 - Hair and Makeup,0.93,0.952,0.973,0.837
+c7 - Talking to Passenger,0.96,0.915,0.986,0.884
+car,0.45,0.947,0.522,0.414
+car broken,0.0,0.0,0.095,0.04
+destroying,0.416,0.702,0.363,0.129
+glass shatter,0.908,0.867,0.955,0.855
+person,0.445,0.84,0.446,0.224
+suspicious,0.805,1.0,0.845,0.533
+theft,0.881,0.905,0.944,0.555
+theft-detection,0.892,0.667,0.866,0.683
+vehicle theft,0.934,1.0,0.995,0.756

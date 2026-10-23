@@ -1,0 +1,11 @@
+split,clase,precision,recall,f1,mAP50,mAP50_95
+val,abriendo_puerta,0.853,1.0,0.9206,0.995,0.8075
+val,arma_blanca,0.8694,0.9143,0.8913,0.9355,0.7495
+val,arma_fuego,0.8934,0.8533,0.8729,0.9237,0.7363
+val,car broken,0.5551,0.4737,0.5112,0.4495,0.3101
+val,suspicious,0.9628,1.0,0.9811,0.995,0.7902
+test,abriendo_puerta,0.836,1.0,0.9107,0.995,0.7841
+test,arma_blanca,0.8921,0.6361,0.7427,0.845,0.6335
+test,arma_fuego,0.9226,0.8168,0.8665,0.892,0.7256
+test,car broken,0.978,0.5833,0.7308,0.7024,0.3464
+test,suspicious,0.9689,1.0,0.9842,0.995,0.716

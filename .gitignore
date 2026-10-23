@@ -17,6 +17,12 @@
 !*.py
 !ds/data.yaml
 
+# Gráficas de resultados usadas en el README
+!docs/**/*.png
+!docs/**/*.jpg
+!docs/**/*.csv
+!docs/**/*.md
+
 # 4) Carpetas que NUNCA se suben (aunque tengan .ipynb o .py dentro)
 .venv/
 venv/
